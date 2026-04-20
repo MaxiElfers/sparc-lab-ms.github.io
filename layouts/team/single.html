@@ -1,0 +1,30 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  <section class="page-content mw7 center">
+    <article class="post-content pa0 ph4-l">
+      <header class="post-header mb4">
+        {{ $img := (.Resources.ByType "image").GetMatch "*feature*" }}
+        {{ if not $img }}{{ $img = (.Resources.ByType "image").GetMatch "*avatar*" }}{{ end }}
+        {{ with $img }}
+          <img class="db mb3" style="max-width: 220px;" src="{{ .RelPermalink | absURL }}" alt="{{ $.Title }}">
+        {{ end }}
+        <h1 class="f1 lh-solid measure-narrow mb2 fw4">{{ .Title }}</h1>
+        {{ with .Params.subtitle }}<p class="f4 mt0 mb3 ttu tracked fw6 custom-heading-color">{{ . }}</p>{{ end }}
+        {{ with .Params.links }}
+        <p class="f4 mv2">
+          {{ range . }}
+            <a href="{{ .url }}" class="link mr3" aria-label="{{ .name }}"><i class="{{ .icon_pack }} fa-{{ .icon }}"></i></a>
+          {{ end }}
+        </p>
+        {{ end }}
+      </header>
+      <section class="post-body lh-copy">
+        {{ .Content }}
+      </section>
+      <footer class="post-footer mt4">
+        <p class="f6"><a class="link" href="{{ "/team/" | relURL }}">&larr; Back to team</a></p>
+      </footer>
+    </article>
+  </section>
+</main>
+{{ end }}

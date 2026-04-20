@@ -1,0 +1,53 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  <section class="page-content mw8 center">
+    <article class="post-content pa0 ph4-l">
+      <header class="post-header mb4">
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">{{ .Title }}</h1>
+        {{ with .Description }}<p class="f5 measure lh-copy">{{ . | markdownify }}</p>{{ end }}
+      </header>
+
+      {{/* Card pages: everyone that is NOT a collective block */}}
+      {{ $all := where .Pages "Params.draft" "!=" true }}
+      {{ $cards := where $all "Params.collective" "!=" true }}
+      {{ $blocks := where $all "Params.collective" true }}
+
+      <section class="team-cards flex flex-wrap justify-between mt4">
+        {{ range $cards.ByWeight }}
+          {{ $img := (.Resources.ByType "image").GetMatch "*feature*" }}
+          {{ if not $img }}{{ $img = (.Resources.ByType "image").GetMatch "*avatar*" }}{{ end }}
+          {{ if not $img }}{{ $img = (.Resources.ByType "image").GetMatch "*photo*" }}{{ end }}
+          <div class="team-card w-100 w-50-m w-third-l mb4 pr3-l">
+            <article class="ba b--custom-border-color pa3 h-100">
+              {{ with $img }}
+                <a href="{{ $.RelPermalink }}" class="db mb3">
+                  <img class="db w-100" src="{{ .RelPermalink | absURL }}" alt="{{ $.Title }}">
+                </a>
+              {{ end }}
+              <h2 class="f3 mv2 lh-title"><a class="link" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+              {{ with .Params.subtitle }}<p class="f6 ttu tracked mt0 mb2 custom-heading-color">{{ . }}</p>{{ end }}
+              {{ $summary := cond (ne .Params.excerpt nil) .Params.excerpt .Summary }}
+              {{ with $summary }}<p class="f6 lh-copy mv2">{{ . | markdownify }}</p>{{ end }}
+              {{ with .Params.links }}
+              <p class="f6 mt3 mb0">
+                {{ range . }}
+                  <a href="{{ .url }}" class="link mr2" aria-label="{{ .name }}"><i class="{{ .icon_pack }} fa-{{ .icon }}"></i></a>
+                {{ end }}
+              </p>
+              {{ end }}
+            </article>
+          </div>
+        {{ end }}
+      </section>
+
+      {{ range $blocks.ByWeight }}
+        <section class="team-block mt5 pt4 bt b--custom-border-color">
+          <h2 class="f3 fw5 mb3">{{ .Title }}</h2>
+          {{ with .Params.subtitle }}<p class="f5 ttu tracked mt0 mb3 custom-heading-color">{{ . }}</p>{{ end }}
+          <div class="f5 lh-copy">{{ .Content }}</div>
+        </section>
+      {{ end }}
+    </article>
+  </section>
+</main>
+{{ end }}

@@ -1,0 +1,54 @@
+{{ define "main" }}
+<main class="page-main pa4 home-sparc" role="main">
+  <section class="page-content mw7 center">
+    <article class="post-content pa0 ph4-l">
+      <header class="post-header mb4">
+        <h1 class="f1 lh-solid measure-narrow mb2 fw4">{{ .Title }}</h1>
+        {{ with .Params.subtitle }}<p class="f4 mt0 mb3 ttu tracked fw6 custom-heading-color">{{ . }}</p>{{ end }}
+      </header>
+
+      <section class="post-body lh-copy f4">
+        {{ .Content }}
+      </section>
+
+      {{ $news := first (.Params.news_count | default 6) (where site.RegularPages "Type" "blog").ByDate.Reverse }}
+      {{ with $news }}
+      <section class="mt5 pt4 bt b--custom-border-color">
+        <h2 class="f3 fw5 ttu tracked mb4">Recent news</h2>
+        <ul class="list pl0">
+          {{ range . }}
+          <li class="mb4">
+            <p class="f6 ttu tracked mv1 custom-heading-color">{{ .Date.Format "02 Jan 2006" }}</p>
+            <h3 class="f4 fw5 mv1 lh-title"><a class="link underline-hover" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h3>
+            {{ with .Params.description }}<p class="f5 lh-copy mt1 mb0">{{ . | markdownify }}</p>{{ end }}
+          </li>
+          {{ end }}
+        </ul>
+        <p class="f6 mt4"><a class="link underline-hover" href="{{ "/blog/" | relURL }}">All news &rarr;</a></p>
+      </section>
+      {{ end }}
+    </article>
+  </section>
+</main>
+
+<aside class="page-sidebar" role="complementary">
+  <div class="ph4 pt4 pb4">
+    {{ with site.Params.logo }}<img src="{{ . | relURL }}" alt="SPARC" class="w-40 mb3">{{ end }}
+    <h2 class="f4 fw6 ttu tracked mb2">Contact</h2>
+    {{ with .Params.contact.address }}<p class="f5 lh-copy mv2" style="white-space: pre-line;">{{ . | markdownify }}</p>{{ end }}
+    {{ if .Params.contact.lead_name }}
+    <p class="f5 lh-copy mv2">
+      {{ with .Params.contact.lead_label }}<span class="fw6">{{ . }}:</span> {{ end }}
+      {{ if .Params.contact.lead_url }}<a href="{{ .Params.contact.lead_url }}">{{ .Params.contact.lead_name }}</a>{{ else }}{{ .Params.contact.lead_name }}{{ end }}
+    </p>
+    {{ end }}
+    {{ with .Params.contact.prompt }}<p class="f6 lh-copy mt3 mb0">{{ . | markdownify }}</p>{{ end }}
+
+    {{ if .Params.show_social_links }}
+    <div class="mt4">
+      {{ partial "shared/social-links.html" . }}
+    </div>
+    {{ end }}
+  </div>
+</aside>
+{{ end }}
