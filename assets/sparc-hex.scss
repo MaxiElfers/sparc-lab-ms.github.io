@@ -67,32 +67,14 @@ $borderColorCustom: #c7d9a3;
   border-color: $buttonBgColorCustom;
 }
 
-// ---- home hero (banner + lab name) ----
-.home-hero {
-  margin-bottom: 2rem;
+// ---- home banner (main column) ----
+.home-banner-wrap {
+  margin: 0 0 2rem 0;
 }
-.home-hero .lab-name {
-  font-size: 2.2rem;
-  line-height: 1.1;
-  font-weight: 500;
-  letter-spacing: 0.01em;
-  color: $headingColorCustom;
-  margin: 0 0 0.35rem 0;
-  text-wrap: balance;
-}
-@media (min-width: 900px) {
-  .home-hero .lab-name { font-size: 2.6rem; }
-}
-.home-hero .lab-subtitle {
-  font-size: 0.95rem;
-  text-transform: none;
-  letter-spacing: 0;
-  font-style: italic;
-  color: $headingColorCustom;
-  margin: 0 0 1rem 0;
-}
-.home-hero .home-banner {
+.home-banner {
   display: block;
+  width: 100%;
+  height: auto;
   border-radius: 2px;
 }
 
@@ -117,19 +99,35 @@ $borderColorCustom: #c7d9a3;
 }
 
 // ---- sidebar (home page) ----
-.home-sidebar {
-  text-align: center;
-}
 .home-sidebar .sidebar-logo {
   display: block;
   width: 55%;
-  max-width: 180px;
+  max-width: 200px;
   height: auto;
-  margin: 0 auto 1rem auto;
+  margin: 0 auto 1.25rem auto;
 }
-.home-sidebar h2 { text-align: left; }
-.home-sidebar .lab-description,
-.home-sidebar p { text-align: left; }
+.home-sidebar .sidebar-lab-name {
+  font-size: 1.6rem;
+  line-height: 1.2;
+  font-weight: 500;
+  color: $headingColorCustom;
+  margin: 0 0 0.35rem 0;
+  text-align: center;
+  text-wrap: balance;
+}
+.home-sidebar .sidebar-lab-subtitle {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: $sidebarTextColorCustom;
+  text-align: center;
+  margin: 0 0 1.5rem 0;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid $borderColorCustom;
+}
+.home-sidebar h2 {
+  text-align: left;
+  margin-top: 1.25rem;
+}
 .lab-description {
   font-style: italic;
   font-size: 0.95rem;

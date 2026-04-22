@@ -1,14 +1,10 @@
 {{ define "main" }}
 <main class="page-main pa4 home-sparc" role="main">
-  <header class="home-hero">
-    <h1 class="lab-name">{{ .Title }}</h1>
-    {{ with .Params.subtitle }}<p class="lab-subtitle">{{ . }}</p>{{ end }}
-    {{ with (index .Params.images 0) }}
-    <figure class="mb4">
-      <img src="{{ . | relURL }}" alt="{{ $.Site.Title }}" class="w-100 home-banner">
-    </figure>
-    {{ end }}
-  </header>
+  {{ with (index .Params.images 0) }}
+  <figure class="home-banner-wrap mb4">
+    <img src="{{ . | relURL }}" alt="{{ $.Site.Title }}" class="home-banner">
+  </figure>
+  {{ end }}
 
   <section class="page-content mw7 center">
     <article class="post-content pa0 ph4-l">
@@ -44,7 +40,10 @@
 
 <aside class="page-sidebar" role="complementary">
   <div class="ph4 pt4 pb4 home-sidebar">
-    <img src="{{ "/img/sparc-logo.png" | relURL }}" alt="SPARC" class="sidebar-logo mb3">
+    <img src="{{ "/img/sparc-logo.png" | relURL }}" alt="SPARC" class="sidebar-logo">
+
+    <h1 class="sidebar-lab-name">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="sidebar-lab-subtitle">{{ . | markdownify }}</p>{{ end }}
 
     {{ with .Content }}
     <section class="lab-description mb4">
