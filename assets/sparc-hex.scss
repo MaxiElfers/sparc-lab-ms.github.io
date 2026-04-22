@@ -128,6 +128,12 @@ $borderColorCustom: #c7d9a3;
   text-align: left;
   margin-top: 1.25rem;
 }
+.home-sidebar .contact-block {
+  font-style: normal;
+  text-align: left;
+}
+.home-sidebar .contact-block p { margin: 0.15rem 0; }
+.home-sidebar .contact-name { font-size: 1rem; }
 .lab-description {
   font-style: italic;
   font-size: 0.95rem;

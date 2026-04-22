@@ -15,7 +15,7 @@
 
 
       <section id="news" class="mt0">
-        <h2 class="f3 fw5 ttu tracked mb4">News{{ if gt $paginator.TotalPages 1 }} <span class="f6 fw4 normal lh-copy">· page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>{{ end }}</h2>
+        <h2 class="f3 fw5 ttu tracked mb4">News</h2>
         <div class="news-stream">
           {{ range $paginator.Pages }}
           {{ $img := (.Resources.ByType "image").GetMatch "*feature*" }}
@@ -57,14 +57,20 @@
     {{ end }}
 
     <h2 class="f4 fw6 ttu tracked mb2">Contact</h2>
-    {{ with .Params.contact.address }}<p class="f5 lh-copy mv2" style="white-space: pre-line;">{{ . | markdownify }}</p>{{ end }}
-    {{ if .Params.contact.lead_name }}
-    <p class="f5 lh-copy mv2">
-      {{ with .Params.contact.lead_label }}<span class="fw6">{{ . }}:</span> {{ end }}
-      {{ if .Params.contact.lead_url }}<a href="{{ .Params.contact.lead_url }}">{{ .Params.contact.lead_name }}</a>{{ else }}{{ .Params.contact.lead_name }}{{ end }}
-    </p>
-    {{ end }}
-    {{ with .Params.contact.prompt }}<p class="f6 lh-copy mt3 mb0">{{ . | markdownify }}</p>{{ end }}
+    <address class="contact-block f5 lh-copy mv2">
+      {{ with .Params.contact.name }}
+      <p class="contact-name fw6 mv1">
+        {{ if $.Params.contact.name_url }}<a href="{{ $.Params.contact.name_url }}">{{ . }}</a>{{ else }}{{ . }}{{ end }}
+      </p>
+      {{ end }}
+      {{ with .Params.contact.address }}
+      <p class="contact-address mv1">
+        {{ range $i, $line := . }}{{ if $i }}<br>{{ end }}{{ $line }}{{ end }}
+      </p>
+      {{ end }}
+      {{ with .Params.contact.tel }}<p class="contact-tel mv1">Tel: {{ . }}</p>{{ end }}
+      {{ with .Params.contact.email }}<p class="contact-email mv1"><a href="mailto:{{ . }}">{{ . }}</a></p>{{ end }}
+    </address>
 
     {{ if .Params.show_social_links }}
     <div class="mt4">

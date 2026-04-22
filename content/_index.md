@@ -9,30 +9,26 @@ type: home
 layout: list-sidebar
 news_count: 10
 contact:
-  address: |
-    Institute for Geoinformatics
-    University of Münster
-    Heisenbergstr. 2, 48149 Münster, Germany
-  lead_label: "Lab lead"
-  lead_name: "Jun.-Prof. Dr Jakub Krukar"
-  lead_url: "https://www.uni-muenster.de/Geoinformatics/en/institute/people.html"
-  prompt: "For collaborations, thesis supervision, or PhD enquiries, please write to the lab lead with a short description of your background and interests."
+  name: "Prof. Dr. Jakub Krukar"
+  name_url: "https://www.uni-muenster.de/Geoinformatics/en/institute/people.html"
+  address:
+    - "Institute for Geoinformatics"
+    - "Room 141"
+    - "Heisenbergstraße 2"
+    - "48149 Münster"
+  tel: "+49 251 83-33058"
+  email: "krukar@uni-muenster.de"
 ---
 
-Despite decades of research, psychological theories on how people perceive
-and use space are rarely used in architectural design practice. Scientific
-evidence is fragmented into models that treat navigation, visual attention,
-and spatial learning as separate processes. This artificial separation
-produces tools that don't align with how people actually experience and
-use space.
+We study how people perceive, remember, and move through buildings and
+urban environments, and how new technologies reshape those experiences.
+Our methods combine virtual reality, eye-tracking, Bayesian statistics,
+and spatial computation in order to keep experimental setups immersive,
+realistic, and generalisable.
 
-SPARC aims to bridge this gap by developing integrated computational
-frameworks that capture the continuous interplay between movement,
-perception, and cognition in built environments. Our work sits at the
-intersection of geoinformatics, cognitive psychology, and architecture.
-
-We use virtual reality and in-the-wild empirical studies, spatio-temporal
-data analytics, mobile eye-tracking, and Space Syntax. Guided by the
-principles of [use-inspired basic research](https://en.wikipedia.org/wiki/Pasteur%27s_quadrant),
-we focus on real-world challenges that push the boundaries of existing
-research methods and theories.
+We want to bring psychological evidence into architectural design:
+SPARC's mission is to create computational models, indices, and metrics
+that are usable in architectural practice. Guided by the principles of
+[use-inspired basic research](https://en.wikipedia.org/wiki/Pasteur%27s_quadrant),
+we focus on those real-world challenges that push the boundaries of
+existing methods and theories.
