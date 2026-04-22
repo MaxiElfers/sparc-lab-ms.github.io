@@ -20,7 +20,7 @@ SPARC commits to Open Science principles. Supplemental material (transparency ch
 <div class="pub-title">Interpreting Architectural Drawings: The Role of Gaze and Gestures in Cognitive Offloading</div>
 <div class="pub-authors">Park, Y., <strong>Krukar, J.</strong>, Brösamle, M., Gero, J., &amp; Hölscher, C.</div>
 <div class="pub-venue"><em>Applied Cognitive Psychology</em>, 40(1), e70127.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1002/acp.70127">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/191895027">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1002/acp.70127">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/191895027">abstract</a></div>
 </li>
 </ul>
 
@@ -37,7 +37,7 @@ SPARC commits to Open Science principles. Supplemental material (transparency ch
 <div class="pub-title">Sketch2Terrain: AI-Driven Real-Time Terrain Sketch Mapping in Augmented Reality</div>
 <div class="pub-authors">Xiao, T., Chen, Y., Zhong, S., Kiefer, P., <strong>Krukar, J.</strong>, Kim, K.G., Hurni, L., Schwering, A., &amp; Raubal, M.</div>
 <div class="pub-venue">CHI '25, Yokohama, Japan. ACM Press.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1145/3706598.3713467">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/171944420">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1145/3706598.3713467">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/171944420">abstract</a></div>
 </li>
 </ul>
 
@@ -48,7 +48,7 @@ SPARC commits to Open Science principles. Supplemental material (transparency ch
 <div class="pub-title">Ecological validity of architectural cognition: a framework</div>
 <div class="pub-authors"><strong>Krukar, J.</strong>, &amp; Schultz, C.</div>
 <div class="pub-venue"><em>Architectural Science Review</em>, 68(5), 355–362.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1080/00038628.2024.2410741">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/133799021">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1080/00038628.2024.2410741">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/133799021">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">A STIMULATING MUSEUM SPACE: 'Glancing away' and engaging working memory in-between exhibits</div>
@@ -60,7 +60,7 @@ SPARC commits to Open Science principles. Supplemental material (transparency ch
 <div class="pub-title">HabiTech: Inhabiting Buildings, Data &amp; Technology</div>
 <div class="pub-authors"><strong>Krukar, J.</strong>, Dalton, R., Hölscher, C., Dalton, N.S., Veddeler, C., &amp; Wiberg, M.</div>
 <div class="pub-venue">CHI EA '24. ACM Press.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1145/3613905.3636320">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/100128336">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1145/3613905.3636320">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/100128336">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">An algorithmic approach to detect generalization in sketch maps from sketch map alignment</div>
@@ -72,7 +72,7 @@ SPARC commits to Open Science principles. Supplemental material (transparency ch
 <div class="pub-title">VResin: Externalizing spatial memory into 3D sketch maps</div>
 <div class="pub-authors">Xiao, T., Kim, K.G., <strong>Krukar, J.</strong>, Subramaniyan, R., Kiefer, P., Schwering, A., &amp; Raubal, M.</div>
 <div class="pub-venue"><em>International Journal of Human-Computer Studies</em>, 190.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1016/j.ijhcs.2024.103322">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/127891858">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1016/j.ijhcs.2024.103322">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/127891858">abstract</a></div>
 </li>
 </ul>
 
@@ -83,25 +83,25 @@ SPARC commits to Open Science principles. Supplemental material (transparency ch
 <div class="pub-title">Route effects in city-based survey knowledge estimates</div>
 <div class="pub-authors"><strong>Krukar, J.</strong>, Navas Medrano, S., &amp; Schwering, A.</div>
 <div class="pub-venue"><em>Cognitive Processing</em>, 24(2), 213–231.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1007/s10339-022-01122-0">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/84398680">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1007/s10339-022-01122-0">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/84398680">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">Task-dependent sketch maps</div>
 <div class="pub-authors"><strong>Krukar, J.</strong>, van Eek, A., &amp; Schwering, A.</div>
 <div class="pub-venue"><em>Spatial Cognition and Computation</em>, 23(4).</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1080/13875868.2023.2170802">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/84399151">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1080/13875868.2023.2170802">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/84399151">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">Schematizing car routes with their surrounding street network</div>
 <div class="pub-authors">Galvão, M.L., <strong>Krukar, J.</strong>, &amp; Schwering, A.</div>
 <div class="pub-venue"><em>Cartography and Geographic Information Science</em>, 50(1), 20–43.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1080/15230406.2022.2125077">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/84398847">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1080/15230406.2022.2125077">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/84398847">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">An Exploratory Study of Models of Mobile Map User Experience</div>
 <div class="pub-authors">Somaskantharajan, S., Degbelo, A., &amp; <strong>Krukar, J.</strong></div>
 <div class="pub-venue"><em>KN — Journal of Cartography and Geographic Information</em>, 73, 127–146.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1007/s42489-023-00136-8">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/84398530">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1007/s42489-023-00136-8">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/84398530">abstract</a></div>
 </li>
 </ul>
 
@@ -112,7 +112,7 @@ SPARC commits to Open Science principles. Supplemental material (transparency ch
 <div class="pub-title">Spatial generalization in sketch maps: A systematic classification</div>
 <div class="pub-authors">Manivannan, C., <strong>Krukar, J.</strong>, &amp; Schwering, A.</div>
 <div class="pub-venue"><em>Journal of Environmental Psychology</em>, 83.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1016/j.jenvp.2022.101851">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/84399001">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1016/j.jenvp.2022.101851">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/84399001">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">3D Sketch Maps: Concept, Potential Benefits, and Challenges</div>
@@ -141,13 +141,13 @@ SPARC commits to Open Science principles. Supplemental material (transparency ch
 <div class="pub-title">The effect of navigation method and visual display on distance perception in a large-scale virtual building</div>
 <div class="pub-authors">Li, H., Mavros, P., <strong>Krukar, J.</strong>, &amp; Hölscher, C.</div>
 <div class="pub-venue"><em>Cognitive Processing</em>, 22(2), 239–259.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1007/s10339-020-01011-4">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/95738714">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1007/s10339-020-01011-4">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/95738714">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">Evaluating schematic route maps in wayfinding tasks for in-car navigation</div>
 <div class="pub-authors">Galvão, M., <strong>Krukar, J.</strong>, &amp; Schwering, A.</div>
 <div class="pub-venue"><em>Cartography and Geographic Information Science</em>, 48(5), 449–469.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1080/15230406.2021.1943531">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/80104829">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1080/15230406.2021.1943531">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/80104829">abstract</a></div>
 </li>
 </ul>
 
@@ -158,7 +158,7 @@ SPARC commits to Open Science principles. Supplemental material (transparency ch
 <div class="pub-title">Embodied 3D isovists: A method to model the visual perception of space</div>
 <div class="pub-authors"><strong>Krukar, J.</strong>, Manivannan, C., Bhatt, M., &amp; Schultz, C.</div>
 <div class="pub-venue"><em>Environment and Planning B</em>, 48(8), 2307–2325.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1177/2399808320974533">doi</a> · <a href="https://kubakrukar.github.io/pdfs/krukar-embodied3disovists.pdf">pdf</a> · <a href="https://www.isovists.org">code</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/77892102">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1177/2399808320974533">open access PDF</a> · <a href="https://www.isovists.org">code</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/77892102">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">How the Visitors' Cognitive Engagement Is Driven (but Not Dictated) by the Visibility and Co-visibility of Art Exhibits</div>
@@ -170,7 +170,7 @@ SPARC commits to Open Science principles. Supplemental material (transparency ch
 <div class="pub-title">The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions</div>
 <div class="pub-authors"><strong>Krukar, J.</strong>, Anacta, V.J., &amp; Schwering, A.</div>
 <div class="pub-venue"><em>Journal of Environmental Psychology</em>, 68, 101407.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1016/j.jenvp.2020.101407">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/60078310">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1016/j.jenvp.2020.101407">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/60078310">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">Route schematization with landmarks</div>
@@ -182,13 +182,13 @@ SPARC commits to Open Science principles. Supplemental material (transparency ch
 <div class="pub-title">Towards capturing focal/ambient attention during dynamic wayfinding</div>
 <div class="pub-authors"><strong>Krukar, J.</strong>, Mavros, P., &amp; Hölscher, C.</div>
 <div class="pub-venue">ETRA '20 Adjunct. ACM Press.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1145/3379157.3391417">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/77891190">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1145/3379157.3391417">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/77891190">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">HabiTech: Inhabiting buildings, data &amp; technology</div>
 <div class="pub-authors">Dalton, R., Dalton, N., Hölscher, C., Veddeler, C., <strong>Krukar, J.</strong>, &amp; Wiberg, M.</div>
 <div class="pub-venue">CHI EA '20. ACM.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1145/3334480.3375179">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/95738427">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1145/3334480.3375179">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/95738427">abstract</a></div>
 </li>
 </ul>
 
@@ -293,13 +293,13 @@ SPARC commits to Open Science principles. Supplemental material (transparency ch
 <div class="pub-title">Wayfinding Through Orientation</div>
 <div class="pub-authors">Schwering, A., <strong>Krukar, J.</strong>, Li, R., Anacta, V.J., &amp; Fuest, S.</div>
 <div class="pub-venue"><em>Spatial Cognition and Computation</em>, 17(4), 273–303.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1080/13875868.2017.1322597">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/23051862">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1080/13875868.2017.1322597">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/23051862">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">Indoor Wayfinding: Interview with Christoph Hölscher and Ruth Conroy Dalton</div>
 <div class="pub-authors"><strong>Krukar, J.</strong>, Hölscher, C., &amp; Conroy Dalton, R.</div>
 <div class="pub-venue"><em>Künstliche Intelligenz</em>, 31, 185–191.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1007/s13218-016-0483-3">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/23049166">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1007/s13218-016-0483-3">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/23049166">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">Landmark-Based Navigation in Cognitive Systems</div>
