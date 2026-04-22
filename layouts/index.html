@@ -1,19 +1,23 @@
 {{ define "main" }}
-<main class="page-main pa4 home-sparc" role="main">
+{{ $posts := (where site.RegularPages "Type" "blog").ByDate.Reverse }}
+{{ $paginator := .Paginate $posts 8 }}
+<main class="page-main ph4 pb4 home-sparc" role="main">
+  {{ if eq $paginator.PageNumber 1 }}
   {{ with (index .Params.images 0) }}
   <figure class="home-banner-wrap mb4">
     <img src="{{ . | relURL }}" alt="{{ $.Site.Title }}" class="home-banner">
   </figure>
   {{ end }}
+  {{ end }}
 
   <section class="page-content mw7 center">
     <article class="post-content pa0 ph4-l">
-      {{ $news := first (.Params.news_count | default 50) (where site.RegularPages "Type" "blog").ByDate.Reverse }}
-      {{ with $news }}
+
+
       <section id="news" class="mt0">
-        <h2 class="f3 fw5 ttu tracked mb4">News</h2>
+        <h2 class="f3 fw5 ttu tracked mb4">News{{ if gt $paginator.TotalPages 1 }} <span class="f6 fw4 normal lh-copy">· page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>{{ end }}</h2>
         <div class="news-stream">
-          {{ range . }}
+          {{ range $paginator.Pages }}
           {{ $img := (.Resources.ByType "image").GetMatch "*feature*" }}
           {{ if not $img }}{{ $img = (.Resources.ByType "image").GetMatch "*avatar*" }}{{ end }}
           {{ if not $img }}{{ $img = (.Resources.ByType "image").GetMatch "*thumb*" }}{{ end }}
@@ -32,8 +36,9 @@
           </article>
           {{ end }}
         </div>
+
+        {{ partial "shared/list-pagination.html" . }}
       </section>
-      {{ end }}
     </article>
   </section>
 </main>
