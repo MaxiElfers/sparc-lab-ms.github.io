@@ -31,7 +31,8 @@
               {{ with .Params.links }}
               <p class="f6 mt3 mb0">
                 {{ range . }}
-                  <a href="{{ .url }}" class="link mr2" aria-label="{{ .name }}"><i class="{{ .icon_pack }} fa-{{ .icon }}"></i></a>
+                  {{ $prefix := cond (eq .icon_pack "ai") "ai" "fa" }}
+                  <a href="{{ .url }}" class="link mr2" aria-label="{{ .name }}"><i class="{{ .icon_pack }} {{ $prefix }}-{{ .icon }}"></i></a>
                 {{ end }}
               </p>
               {{ end }}

@@ -17,10 +17,6 @@ links:
   icon_pack: ai
   name: scholar
   url: https://scholar.google.de/citations?user=-c7yB1IAAAAJ
-- icon: researchgate
-  icon_pack: ai
-  name: researchgate
-  url: https://www.researchgate.net/profile/Jakub-Krukar
 - icon: linkedin
   icon_pack: fab
   name: linkedin

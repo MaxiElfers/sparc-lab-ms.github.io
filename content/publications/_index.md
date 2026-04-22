@@ -13,8 +13,6 @@ SPARC commits to Open Science principles. Supplemental material (transparency ch
 - SPARC on [GitHub](https://github.com/kubakrukar)
 - SPARC on [GitLab](https://zivgitlab.uni-muenster.de/krukar)
 
-Jump to: [2026](#y2026) · [2025](#y2025) · [2024](#y2024) · [2023](#y2023) · [2022](#y2022) · [2021](#y2021) · [2020](#y2020) · [2019](#y2019) · [2018](#y2018) · [2017](#y2017) · [2016](#y2016) · [2015](#y2015) · [2014](#y2014) · [2013](#y2013) · [talks](#talks)
-
 <h2 id="y2026">2026</h2>
 
 <ul class="pub-list">
@@ -33,7 +31,7 @@ Jump to: [2026](#y2026) · [2025](#y2025) · [2024](#y2024) · [2023](#y2023) ·
 <div class="pub-title">Probing mental representations of space through sketch mapping: a scoping review</div>
 <div class="pub-authors">Simonet, M., Vater, C., Abati, C., Zhong, S., Mavros, P., Schwering, A., Raubal, M., Hölscher, C., &amp; <strong>Krukar, J.</strong></div>
 <div class="pub-venue"><em>Cognitive Research: Principles and Implications</em>, 10(1).</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1186/s41235-025-00667-w">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/171944211">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1186/s41235-025-00667-w">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/171944211">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">Sketch2Terrain: AI-Driven Real-Time Terrain Sketch Mapping in Augmented Reality</div>
@@ -68,7 +66,7 @@ Jump to: [2026](#y2026) · [2025](#y2025) · [2024](#y2024) · [2023](#y2023) ·
 <div class="pub-title">An algorithmic approach to detect generalization in sketch maps from sketch map alignment</div>
 <div class="pub-authors">Manivannan, C., <strong>Krukar, J.</strong>, &amp; Schwering, A.</div>
 <div class="pub-venue"><em>PLOS ONE</em>, 19.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1371/journal.pone.0304696">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/127891726">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1371/journal.pone.0304696">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/127891726">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">VResin: Externalizing spatial memory into 3D sketch maps</div>
@@ -120,19 +118,19 @@ Jump to: [2026](#y2026) · [2025](#y2025) · [2024](#y2024) · [2023](#y2023) ·
 <div class="pub-title">3D Sketch Maps: Concept, Potential Benefits, and Challenges</div>
 <div class="pub-authors">Kim, K.G., <strong>Krukar, J.</strong>, Mavros, P., Zhao, J., Kiefer, P., Schwering, A., Hölscher, C., &amp; Raubal, M.</div>
 <div class="pub-venue">COSIT 2022 (LIPIcs 240, paper 14).</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.4230/LIPIcs.COSIT.2022.14">doi</a> · <a href="https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/565530/kim_cosit2022.pdf?sequence=1">pdf</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/95737936">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.4230/LIPIcs.COSIT.2022.14">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/95737936">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">Are Psychological Variables Relevant to Evaluating Geoinformatics Applications? The Case of Landmarks</div>
 <div class="pub-authors"><strong>Krukar, J.</strong>, &amp; Schwering, A.</div>
 <div class="pub-venue">COSIT 2022 (LIPIcs 240, paper 10). Vision paper.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.4230/LIPIcs.COSIT.2022.10">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/95738131">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.4230/LIPIcs.COSIT.2022.10">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/95738131">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">Generalized, Inaccurate, Incomplete: How to Comprehensively Analyze Sketch Maps Beyond Their Metric Correctness</div>
 <div class="pub-authors">Schwering, A., <strong>Krukar, J.</strong>, Manivannan, C., Chipofya, M., &amp; Jan, S.</div>
 <div class="pub-venue">COSIT 2022 (LIPIcs 240, paper 8).</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.4230/LIPIcs.COSIT.2022.8">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/95738279">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.4230/LIPIcs.COSIT.2022.8">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/95738279">abstract</a></div>
 </li>
 </ul>
 
@@ -166,7 +164,7 @@ Jump to: [2026](#y2026) · [2025](#y2025) · [2024](#y2024) · [2023](#y2023) ·
 <div class="pub-title">How the Visitors' Cognitive Engagement Is Driven (but Not Dictated) by the Visibility and Co-visibility of Art Exhibits</div>
 <div class="pub-authors"><strong>Krukar, J.</strong>, &amp; Dalton, R.C.</div>
 <div class="pub-venue"><em>Frontiers in Psychology</em>, 11, 350.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.3389/fpsyg.2020.00350">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/60098865">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.3389/fpsyg.2020.00350">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/60098865">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions</div>
@@ -178,7 +176,7 @@ Jump to: [2026](#y2026) · [2025](#y2025) · [2024](#y2024) · [2023](#y2023) ·
 <div class="pub-title">Route schematization with landmarks</div>
 <div class="pub-authors">Galvão, M., <strong>Krukar, J.</strong>, Nöllenburg, M., &amp; Schwering, A.</div>
 <div class="pub-venue"><em>Journal of Spatial Information Science</em>, 21, 99–136.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.5311/JOSIS.2020.21.589">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/77832345">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.5311/JOSIS.2020.21.589">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/77832345">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">Towards capturing focal/ambient attention during dynamic wayfinding</div>
@@ -201,13 +199,13 @@ Jump to: [2026](#y2026) · [2025](#y2025) · [2024](#y2024) · [2023](#y2023) ·
 <div class="pub-title">Spatial Learning with Orientation Maps: The Influence of Different Environmental Features on Spatial Knowledge Acquisition</div>
 <div class="pub-authors">Löwen, H., <strong>Krukar, J.</strong>, &amp; Schwering, A.</div>
 <div class="pub-venue"><em>ISPRS International Journal of Geo-Information</em>, 8(3).</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.3390/ijgi8030149">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/60906957">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.3390/ijgi8030149">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/60906957">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">Functional Scales in Assisted Wayfinding</div>
 <div class="pub-authors">Löwen, H., <strong>Krukar, J.</strong>, &amp; Schwering, A.</div>
 <div class="pub-venue">COSIT 2019 (LIPIcs 142).</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.4230/LIPIcs.COSIT.2019.3">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/60740034">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.4230/LIPIcs.COSIT.2019.3">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/60740034">abstract</a></div>
 </li>
 <li class="pub">
 <div class="pub-title">The Impact of Indoor/Outdoor Context on Smartphone Interaction During Walking</div>
@@ -406,7 +404,7 @@ Jump to: [2026](#y2026) · [2025](#y2025) · [2024](#y2024) · [2023](#y2023) ·
 <div class="pub-title">Walk, look, remember: The influence of the gallery's spatial layout on human memory for an art exhibition</div>
 <div class="pub-authors"><strong>Krukar, J.</strong></div>
 <div class="pub-venue"><em>Behavioral Sciences</em>, 4(3), 181–201.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.3390/bs4030181">doi</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/95739071">abstract</a></div>
+<div class="pub-links"><a href="https://dx.doi.org/10.3390/bs4030181">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/95739071">abstract</a></div>
 </li>
 </ul>
 

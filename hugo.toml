@@ -35,7 +35,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
   mainSections = ["blog"]
   navallcaps = true
   socialInHeader = false
-  socialInFooter = true
+  socialInFooter = false
   sharing_image = "/img/sparc-share.png"
 
   # SPARC custom palette defined in assets/sparc-hex.scss
