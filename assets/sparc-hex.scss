@@ -72,17 +72,22 @@ $borderColorCustom: #c7d9a3;
   margin-bottom: 2rem;
 }
 .home-hero .lab-name {
-  font-size: 3.2rem;
-  line-height: 1;
+  font-size: 2.2rem;
+  line-height: 1.1;
   font-weight: 500;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.01em;
   color: $headingColorCustom;
-  margin: 0 0 0.25rem 0;
+  margin: 0 0 0.35rem 0;
+  text-wrap: balance;
+}
+@media (min-width: 900px) {
+  .home-hero .lab-name { font-size: 2.6rem; }
 }
 .home-hero .lab-subtitle {
-  font-size: 1.05rem;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
+  font-size: 0.95rem;
+  text-transform: none;
+  letter-spacing: 0;
+  font-style: italic;
   color: $headingColorCustom;
   margin: 0 0 1rem 0;
 }
