@@ -8,7 +8,7 @@ draft: false
 layout: single
 ---
 
-[!Embodied 3d isovist algorithm](embodied-iso.png)
+![Embodied 3d isovist algorithm](embodied-iso.png)
 
 How can psychology aid architecture in improving the usability of buildings? We study how space guides our behaviour, our attention, and our thinking. We design formal measures for architectural computation that are grounded in the cognitive experience of space.
 
