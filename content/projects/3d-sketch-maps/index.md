@@ -7,8 +7,6 @@ draft: false
 layout: single
 ---
 
-# Project Description
-
 ![Sample sketchmaps](3dsm-maps.png)
 
 The 3D Sketch Maps project, sponsored by the Swiss National Science Foundation within their Sinergia programme focusing on "interdisciplinary, collaborative and breakthrough research", investigates 3D sketch maps from a theoretical, empirical, cognitive, as well as tool-​related perspective, with a particular focus on Extended Reality (XR) technologies. Sketch mapping is an established research method in fields that study human spatial decision-​making and information processing, such as navigation and wayfinding. Although space is naturally three-​dimensional (3D), contemporary research has focused on assessing individuals’ spatial knowledge with two-​dimensional (2D) sketches. For many domains though, such as aviation or the cognition of complex multilevel buildings, it is essential to study people’s 3D understanding of space, which is not possible with the current 2D methods.
