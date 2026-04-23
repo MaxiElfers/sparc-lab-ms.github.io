@@ -9,13 +9,15 @@ layout: single
 
 # Project Description
 
+![Sample sketchmaps](3dsm-maps.png)
+
 The 3D Sketch Maps project, sponsored by the Swiss National Science Foundation within their Sinergia programme focusing on "interdisciplinary, collaborative and breakthrough research", investigates 3D sketch maps from a theoretical, empirical, cognitive, as well as tool-​related perspective, with a particular focus on Extended Reality (XR) technologies. Sketch mapping is an established research method in fields that study human spatial decision-​making and information processing, such as navigation and wayfinding. Although space is naturally three-​dimensional (3D), contemporary research has focused on assessing individuals’ spatial knowledge with two-​dimensional (2D) sketches. For many domains though, such as aviation or the cognition of complex multilevel buildings, it is essential to study people’s 3D understanding of space, which is not possible with the current 2D methods.
 
 Our role in the project focuses on the problem of analysing 3d sketch maps. These are complicated, messy drawings, that are difficult to interpret. How can we tell if one 3d sketch map is "better" compared to another?
 
-One of our approaches, inspired by the concept of "convex spaces" from the architectural theory of Space Syntax, relies on diving the sketch maps into cuboids, and analysing qualitative relations between them. Our plugin for supporting this analysis within Grasshopper software is available on [github](https://github.com/kubakrukar/3D-Sketch-Map-Analysis).
+![Ground-truth building and sketch map decomposed into cuboids and matched per subspace](3dSM-method1.jpg)
 
-![Ground-truth building and sketch map decomposed into cuboids and matched across stairs](3dSM-method1.jpg)
+One of our approaches, inspired by the concept of "convex spaces" from the architectural theory of Space Syntax, relies on diving the sketch maps into cuboids, and analysing qualitative relations between them. Our plugin for supporting this analysis within Grasshopper software is available on [github](https://github.com/kubakrukar/3D-Sketch-Map-Analysis).
 
 More details are available on the [Swiss National Science Foundation website](https://data.snf.ch/grants/grant/202284).
 
