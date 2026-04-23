@@ -14,8 +14,16 @@ How can psychology aid architecture in improving the usability of buildings? We 
 
 In recent work, we have extended a popular architectural measure of visibility, called an “isovist”, from 2-D to 3-D environments. We demonstrated that our measure better predicts how “spacious” and “complex” a building feels to a human occupant, compared to the previously available methods.
 
-Key publications:
+### Articles
 
-  * ["Ecological validity of architectural cognition: a framework"](https://www.tandfonline.com/doi/full/10.1080/00038628.2024.2410741)
-  * [“Embodied 3D isovists: A method to model the visual perception of space”](https://journals.sagepub.com/doi/full/10.1177/2399808320974533)
-  * [“Architectural Cognition and Behavior”](https://kubakrukar.github.io/pdfs/Dalton%2C%20Krukar%2C%20Ho%CC%88lscher%20-%202018%20-%20Architectural%20cognition%20and%20behavior.pdf)
+#### 2025
+
+  * Krukar, J., and Schultz, C. 2025. "[Ecological validity of architectural cognition: a framework](https://cris.uni-muenster.de/portal/en/publication/133799021)." *Architectural Science Review* 68 (5), 355–362. doi: [10.1080/00038628.2024.2410741](https://dx.doi.org/10.1080/00038628.2024.2410741).
+
+#### 2020
+
+  * Krukar, J., Manivannan, C., Bhatt, M., and Schultz, C. 2020. "[Embodied 3D isovists: A method to model the visual perception of space](https://cris.uni-muenster.de/portal/en/publication/77892102)." *Environment and Planning B* 48 (8), 2307–2325. doi: [10.1177/2399808320974533](https://dx.doi.org/10.1177/2399808320974533).
+
+#### 2018
+
+  * Dalton, R.C., Krukar, J., and Hölscher, C. 2018. "[Architectural cognition and behavior](https://cris.uni-muenster.de/portal/en/publication/61288017)." In *Handbook of Behavioral and Cognitive Geography*. Edward Elgar. doi: [10.4337/9781784717544.00030](https://dx.doi.org/10.4337/9781784717544.00030).

@@ -10,8 +10,6 @@ layout: single
 weight: 4
 ---
 
-![Assessing mental representations of complex 3D structures](3d-mental-reps.png)
-
 Wayfinding in complex 3D structures such as multi-level buildings, transport hubs, and shopping malls depends on mental representations that current research struggles to capture. Two communities work on this problem largely in parallel. Geoinformatics develops computational and Virtual Reality tools that probe spatial knowledge externally, typically through sketch mapping and related externalisation techniques. Architectural and psychological research, in turn, administers domain-specific psychometric tests to characterise spatial ability internally. The two traditions have rarely been brought into direct contact.
 
 This project joins the two strands. We pair geoinformatics-grounded VR methods developed at SPARC with the psychometric spatial-ability instruments used at the [Human-Centered Interior Environment Lab](https://hielab.weebly.com/faculty.html) led by Prof. Ji Young Cho at Kyung Hee University in Seoul. The central question is whether these measures capture overlapping or complementary aspects of mental representations of 3D space, and how each tradition can be sharpened by drawing on the other.
@@ -19,3 +17,5 @@ This project joins the two strands. We pair geoinformatics-grounded VR methods d
 The collaboration is carried out through mutual research visits of 3–4 weeks (Jakub in Seoul, Ji Young in Münster) over the coming year.
 
 *Funding: German Research Foundation (DFG) and National Research Foundation of Korea (NRF); €20k+*
+
+*Card image by Cho, J.Y., & Suh, J. (2022). The Architecture and Interior Design Domain–Specific Spatial Ability Test (AISAT): Its validity and reliability. Journal of Interior Design, 47(1), 45–64. [https://doi.org/10.1111/joid.12211](https://doi.org/10.1111/joid.12211).*

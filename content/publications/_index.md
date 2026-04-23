@@ -27,6 +27,12 @@ SPARC commits to Open Science principles. Supplemental material (transparency ch
 
 <ul class="pub-list">
 <li class="pub">
+<div class="pub-title">Ecological validity of architectural cognition: a framework</div>
+<div class="pub-authors"><strong>Krukar, J.</strong>, &amp; Schultz, C.</div>
+<div class="pub-venue"><em>Architectural Science Review</em>, 68(5), 355–362.</div>
+<div class="pub-links"><a href="https://dx.doi.org/10.1080/00038628.2024.2410741">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/133799021">abstract</a></div>
+</li>
+<li class="pub">
 <div class="pub-title">Probing mental representations of space through sketch mapping: a scoping review</div>
 <div class="pub-authors">Simonet, M., Vater, C., Abati, C., Zhong, S., Mavros, P., Schwering, A., Raubal, M., Hölscher, C., &amp; <strong>Krukar, J.</strong></div>
 <div class="pub-venue"><em>Cognitive Research: Principles and Implications</em>, 10(1).</div>
@@ -43,12 +49,6 @@ SPARC commits to Open Science principles. Supplemental material (transparency ch
 <h2 id="y2024">2024</h2>
 
 <ul class="pub-list">
-<li class="pub">
-<div class="pub-title">Ecological validity of architectural cognition: a framework</div>
-<div class="pub-authors"><strong>Krukar, J.</strong>, &amp; Schultz, C.</div>
-<div class="pub-venue"><em>Architectural Science Review</em>, 68(5), 355–362.</div>
-<div class="pub-links"><a href="https://dx.doi.org/10.1080/00038628.2024.2410741">open access PDF</a> · <a href="https://cris.uni-muenster.de/portal/en/publication/133799021">abstract</a></div>
-</li>
 <li class="pub">
 <div class="pub-title">A STIMULATING MUSEUM SPACE: 'Glancing away' and engaging working memory in-between exhibits</div>
 <div class="pub-authors"><strong>Krukar, J.</strong></div>

@@ -16,3 +16,5 @@ In the first phase of the project we will develop empirical experiments and coll
 Project Partner: [Prof. Panos Mavros](https://perso.telecom-paristech.fr/pmavros/), Télécom Paris / Institut Polytechnique de Paris
 
 *Funding: [German Research Foundation (Project number 545761511)](https://gepris.dfg.de/gepris/projekt/545761511?language=en) and French National Research Agency; €530k+*
+
+*Thumbnail image by Mavros, P., Zhong, Y., & Hölscher, C. (2022). Spatial characteristics of mixed-use typologies in a tropical metropolis: Understanding how retail podia relate with the urban realm. In *Proceedings of the 13th International Space Syntax Symposium*, Bergen, Norway. [ResearchGate](https://www.researchgate.net/publication/385651615).*
