@@ -18,4 +18,4 @@ The collaboration is carried out through mutual research visits of 3–4 weeks (
 
 *Funding: German Research Foundation (DFG) and National Research Foundation of Korea (NRF); €20k+*
 
-*Card image by Cho, J.Y., & Suh, J. (2022). The Architecture and Interior Design Domain–Specific Spatial Ability Test (AISAT): Its validity and reliability. Journal of Interior Design, 47(1), 45–64. [https://doi.org/10.1111/joid.12211](https://doi.org/10.1111/joid.12211).*
+*Thumbnail image by [Cho, J.Y., & Suh, J. (2022)](https://doi.org/10.1111/joid.12211).*

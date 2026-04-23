@@ -5,6 +5,7 @@ excerpt: Extending sketch mapping from 2D pen-and-paper to 3D VR/XR tools.
 date: '2024-01-01'
 draft: false
 layout: single
+weight: 7
 ---
 
 ![Sample sketchmaps](3dsm-maps.png)
@@ -21,18 +22,10 @@ More details are available on the [Swiss National Science Foundation website](ht
 
 ### Articles
 
-#### 2025
-
-  * Simonet, M., Vater, C., Abati, C., Zhong, S., Mavros, P., Schwering, A., Raubal, M., Holscher, C., and Krukar, J. 2025. “[Probing mental representations of space through sketch mapping: a scoping review](https://cris.uni-muenster.de/portal/en/publication/171944211).” Cognitive research: principles and implications 10 (1). doi: [10.1186/s41235-025-00667-w](https://dx.doi.org/10.1186/s41235-025-00667-w).
-  * Xiao, T., Chen, Y., Zhong, S., Kiefer, P., Krukar, J., Kim, K.G., Hurni, L., Schwering, A., and Raubal, M. 2025. “[Sketch2Terrain: AI-Driven Real-Time Terrain Sketch Mapping in Augmented Reality](https://cris.uni-muenster.de/portal/en/publication/171944420).” in CHI '25: Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, edited by Yamashita Naomi, Evers Vanessa, Yatani Koji, Ding Xianghua, Lee Bongshin, Chetty Marshini and Toups-Dugas Phoebe.  Yokohama Japan: ACM Press. doi: [10.1145/3706598.3713467](https://dx.doi.org/10.1145/3706598.3713467).
-
-#### 2024
-
-  * Manivannan, C., Krukar, J., and Schwering, A. 2024. “[An algorithmic approach to detect generalization in sketch maps from sketch map alignment](https://cris.uni-muenster.de/portal/en/publication/127891726).” PloS one 19. doi: [10.1371/journal.pone.0304696](https://dx.doi.org/10.1371/journal.pone.0304696).
-  * Xiao, T., Kim, K.G., Krukar, J., Subramaniyan, R., Kiefer, P., Schwering, A., and Raubal, M. 2024. “[VResin: Externalizing spatial memory into 3D sketch maps](https://cris.uni-muenster.de/portal/en/publication/127891858).” International Journal of Human-Computer Studies 190. doi: [10.1016/j.ijhcs.2024.103322](https://dx.doi.org/10.1016/j.ijhcs.2024.103322).
-
-#### 2022
-
-  * Manivannan, C., Krukar, J., and Schwering, A. 2022. “[Spatial generalization in sketch maps: A systematic classification](https://cris.uni-muenster.de/portal/en/publication/84399001).” Journal of Environmental Psychology 83. doi: [10.1016/j.jenvp.2022.101851](https://dx.doi.org/10.1016/j.jenvp.2022.101851).
-  * Kim, K.G., Krukar, J., Mavros, P., Zhao, J., Kiefer, P., Schwering, A., Hölscher, C., and Raubal, M. 2022. “[3D Sketch Maps: Concept, Potential Benefits, and Challenges](https://cris.uni-muenster.de/portal/en/publication/95737936).” in 15th International Conference on Spatial Information Theory (COSIT 2022), Vol. 240 of Leibniz International Proceedings in Informatics (LIPIcs), edited by Ishikawa, Fabrikant and Winter. Kyoto: Dagstuhl Publishing. doi: [10.4230/LIPIcs.COSIT.2022.14](https://dx.doi.org/10.4230/LIPIcs.COSIT.2022.14).
-  * Schwering, A., Krukar, J., Manivannan, C., Chipofya, M., and Jan, S. 2022. “[Generalized, Inaccurate, Incomplete: How to Comprehensively Analyze Sketch Maps Beyond Their Metric Correctness](https://cris.uni-muenster.de/portal/en/publication/95738279).” in 15th International Conference on Spatial Information Theory (COSIT 2022), Vol. 240 of Leibniz International Proceedings in Informatics (LIPIcs), edited by Ishikawa, Fabrikant and Winter. Kyoto: Dagstuhl Publishing. doi: [10.4230/LIPIcs.COSIT.2022.8](https://dx.doi.org/10.4230/LIPIcs.COSIT.2022.8).
+  * Simonet, M., Vater, C., Abati, C., Zhong, S., Mavros, P., Schwering, A., Raubal, M., Hölscher, C., & Krukar, J. (2025). Probing mental representations of space through sketch mapping: a scoping review. *Cognitive Research: Principles and Implications, 10*(1). [https://doi.org/10.1186/s41235-025-00667-w](https://doi.org/10.1186/s41235-025-00667-w)
+  * Xiao, T., Chen, Y., Zhong, S., Kiefer, P., Krukar, J., Kim, K.G., Hurni, L., Schwering, A., & Raubal, M. (2025). Sketch2Terrain: AI-driven real-time terrain sketch mapping in augmented reality. In *CHI '25: Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems*. Yokohama, Japan: ACM Press. [https://doi.org/10.1145/3706598.3713467](https://doi.org/10.1145/3706598.3713467)
+  * Manivannan, C., Krukar, J., & Schwering, A. (2024). An algorithmic approach to detect generalization in sketch maps from sketch map alignment. *PLOS ONE, 19*. [https://doi.org/10.1371/journal.pone.0304696](https://doi.org/10.1371/journal.pone.0304696)
+  * Xiao, T., Kim, K.G., Krukar, J., Subramaniyan, R., Kiefer, P., Schwering, A., & Raubal, M. (2024). VResin: Externalizing spatial memory into 3D sketch maps. *International Journal of Human-Computer Studies, 190*. [https://doi.org/10.1016/j.ijhcs.2024.103322](https://doi.org/10.1016/j.ijhcs.2024.103322)
+  * Manivannan, C., Krukar, J., & Schwering, A. (2022). Spatial generalization in sketch maps: A systematic classification. *Journal of Environmental Psychology, 83*. [https://doi.org/10.1016/j.jenvp.2022.101851](https://doi.org/10.1016/j.jenvp.2022.101851)
+  * Kim, K.G., Krukar, J., Mavros, P., Zhao, J., Kiefer, P., Schwering, A., Hölscher, C., & Raubal, M. (2022). 3D sketch maps: Concept, potential benefits, and challenges. In *15th International Conference on Spatial Information Theory (COSIT 2022)*, LIPIcs 240. Kyoto: Dagstuhl Publishing. [https://doi.org/10.4230/LIPIcs.COSIT.2022.14](https://doi.org/10.4230/LIPIcs.COSIT.2022.14)
+  * Schwering, A., Krukar, J., Manivannan, C., Chipofya, M., & Jan, S. (2022). Generalized, inaccurate, incomplete: How to comprehensively analyze sketch maps beyond their metric correctness. In *15th International Conference on Spatial Information Theory (COSIT 2022)*, LIPIcs 240. Kyoto: Dagstuhl Publishing. [https://doi.org/10.4230/LIPIcs.COSIT.2022.8](https://doi.org/10.4230/LIPIcs.COSIT.2022.8)

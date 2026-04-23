@@ -6,7 +6,7 @@ excerpt: How movement through space shapes visual attention — joint computatio
 date: '2026-04-01'
 draft: false
 layout: single
-weight: 5
+weight: 2
 ---
 
 ![Experimental design](space-eye.png)

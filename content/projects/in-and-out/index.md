@@ -5,6 +5,7 @@ excerpt: A cognitively-grounded integration of indoor and outdoor spatial comput
 date: '2024-01-01'
 draft: false
 layout: single
+weight: 1
 ---
 
 ![In-out alignment of building and surrounding](alignment.png)
@@ -17,4 +18,4 @@ Project Partner: [Prof. Panos Mavros](https://perso.telecom-paristech.fr/pmavros
 
 *Funding: [German Research Foundation (Project number 545761511)](https://gepris.dfg.de/gepris/projekt/545761511?language=en) and French National Research Agency; €530k+*
 
-*Thumbnail image by Mavros, P., Zhong, Y., & Hölscher, C. (2022). Spatial characteristics of mixed-use typologies in a tropical metropolis: Understanding how retail podia relate with the urban realm. In *Proceedings of the 13th International Space Syntax Symposium*, Bergen, Norway. [ResearchGate](https://www.researchgate.net/publication/385651615).*
+*Thumbnail image by [Mavros, P., Zhong, Y., & Hölscher, C. (2022)](https://www.researchgate.net/publication/385651615).*

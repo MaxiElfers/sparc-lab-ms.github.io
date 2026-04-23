@@ -6,6 +6,7 @@ excerpt: How space guides behaviour, attention, and thinking — and how to meas
 date: '2024-01-01'
 draft: false
 layout: single
+weight: 6
 ---
 
 ![Embodied 3d isovist algorithm](embodied-iso.png)
@@ -16,14 +17,6 @@ In recent work, we have extended a popular architectural measure of visibility, 
 
 ### Articles
 
-#### 2025
-
-  * Krukar, J., and Schultz, C. 2025. "[Ecological validity of architectural cognition: a framework](https://cris.uni-muenster.de/portal/en/publication/133799021)." *Architectural Science Review* 68 (5), 355–362. doi: [10.1080/00038628.2024.2410741](https://dx.doi.org/10.1080/00038628.2024.2410741).
-
-#### 2020
-
-  * Krukar, J., Manivannan, C., Bhatt, M., and Schultz, C. 2020. "[Embodied 3D isovists: A method to model the visual perception of space](https://cris.uni-muenster.de/portal/en/publication/77892102)." *Environment and Planning B* 48 (8), 2307–2325. doi: [10.1177/2399808320974533](https://dx.doi.org/10.1177/2399808320974533).
-
-#### 2018
-
-  * Dalton, R.C., Krukar, J., and Hölscher, C. 2018. "[Architectural cognition and behavior](https://cris.uni-muenster.de/portal/en/publication/61288017)." In *Handbook of Behavioral and Cognitive Geography*. Edward Elgar. doi: [10.4337/9781784717544.00030](https://dx.doi.org/10.4337/9781784717544.00030).
+  * Krukar, J., & Schultz, C. (2025). Ecological validity of architectural cognition: a framework. *Architectural Science Review, 68*(5), 355–362. [https://doi.org/10.1080/00038628.2024.2410741](https://doi.org/10.1080/00038628.2024.2410741)
+  * Krukar, J., Manivannan, C., Bhatt, M., & Schultz, C. (2020). Embodied 3D isovists: A method to model the visual perception of space. *Environment and Planning B, 48*(8), 2307–2325. [https://doi.org/10.1177/2399808320974533](https://doi.org/10.1177/2399808320974533)
+  * Dalton, R.C., Krukar, J., & Hölscher, C. (2018). Architectural cognition and behavior. In *Handbook of Behavioral and Cognitive Geography*. Edward Elgar. [https://doi.org/10.4337/9781784717544.00030](https://doi.org/10.4337/9781784717544.00030)

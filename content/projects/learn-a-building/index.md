@@ -7,7 +7,7 @@ excerpt: An online behavioural-economics paradigm probing how small
 date: '2024-09-09'
 draft: false
 layout: single
-weight: 6
+weight: 3
 ---
 
 ![Experimental conditions](learn-a-building.png)
