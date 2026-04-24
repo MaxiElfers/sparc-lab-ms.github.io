@@ -1,9 +1,9 @@
 ---
 title: What does it take to learn a building?
 subtitle: Bringing individualisation to architectural analysis
-excerpt: An online behavioural-economics paradigm probing how small
-  individual differences in walking trajectories shape the understanding
-  and navigability of large public buildings.
+excerpt: An online paradigm probing how small
+  differences in walking trajectories shape the understanding
+  of large buildings.
 date: '2024-09-09'
 draft: false
 layout: single

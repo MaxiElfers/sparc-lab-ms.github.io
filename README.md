@@ -15,51 +15,42 @@ file, so images can sit next to the post.
 
 1. Create a new folder under `content/blog/`, named `YYYY-MM-DD-short-slug/`.
    Example: `content/blog/2026-05-12-new-paper-vr-sketch-maps/`.
-2. Inside it, create `index.md` with this front matter:
 
-   ```yaml
-   ---
-   title: "Your post title"
-   date: 2026-05-12
-   author: "Your Name"
-   description: "One-sentence summary used on listings and RSS."
-   draft: false
-   layout: single
-   categories:
-     - news
-   tags:
-     - optional-topic
-   ---
+2. Inside it, create `index.md` (just copy-paste some old one and modify content)
 
-   Post body in Markdown.
-   ```
+3. (Required for every news item) Drop a `featured.jpg` into the same folder with a relevant graphic (e.g. key figure of a new paper).
 
-3. (Optional) Drop a `featured.jpg` into the same folder for a thumbnail.
+Recommended size: **1000 px on the long edge**, ≤ 300 KB, JPEG for photos,
+PNG for diagrams/screenshots. Aspect ratio is flexible (the grid crops),
+but landscape ~1000×600 or square 1000×1000 works best.
+
 4. Open a pull request against `main`. Once merged, GitHub Actions builds
    the site and deploys it within a minute or two.
 
 A copyable template is in `content/blog/_example-post/index.md`
 (`draft: true`, so it won't appear on the live site).
 
-## Local development
+## Project pages
 
-Install the [extended Hugo](https://gohugo.io/installation/) binary (v0.128+),
-then:
+Template: `content/projects/space-eye/`. Copy that whole folder, rename,
+edit the front matter and body. Each project **must** have a card image
+named `card.png` — it's what shows on the Projects grid.
 
-```bash
-git clone --recurse-submodules https://github.com/sparc-lab-ms/sparc-lab-ms.github.io.git
-cd sparc-lab-ms.github.io
-hugo server -D          # -D includes drafts
-```
+- `card.png` — **square, ~1000×1000** (600–1200 px works, keep < 400 KB)
+- Supporting figures referenced in the body — any sensible size, keep
+  width ≤ 1200 px
 
-Open <http://localhost:1313/>. Edit any file under `content/` and the browser
-will reload.
+Report project publications in APA style with a DOI link, as done on the
+SPACE-EYE page.
 
-If you already cloned without `--recurse-submodules`:
+## Image rules at a glance
 
-```bash
-git submodule update --init --recursive
-```
+| Where | Filename | Size | Required |
+|---|---|---|---|
+| News post | `featured.jpg` / `.png` | 1000 px long edge | yes |
+| Project page | `card.png` | ~1000×1000 square | yes |
+| Team portrait | `featured.jpg` | 600×600 square | yes |
+| Site-wide | under `static/img/` | see `static/img/README.md` | — |
 
 ## Repository layout
 
@@ -69,7 +60,7 @@ content/
   about/             # about section (header/main/sidebar sub-bundles)
   team/              # one folder per person, Apéro list-grid
   publications/      # single long-form page
-  theses/            # open topics + completed theses
+  teaching and theses/            # open topics + completed theses
   blog/              # news posts
   contact/
 static/img/          # favicons, logos, shared images
@@ -79,26 +70,12 @@ hugo.toml            # site config, menus, Apéro params
   hugo.yml           # build + deploy to Pages
 ```
 
-## Configuration highlights
-
-Edit `hugo.toml` for:
-
-- Site title, `baseURL`, description
-- Apéro colour theme (`params.theme`, e.g. `sky`, `plum`, `earth`)
-- Fonts (`params.customtextFontFamily`, `params.customheadingFontFamily`)
-- Main menu (`[[menu.header]]`) and footer menu (`[[menu.footer]]`)
-- Social links (`[[params.social]]`)
-
 For the Apéro docs: <https://hugo-apero-docs.netlify.app/>.
 
 ## One-time setup on GitHub
 
 This repo publishes from the `gh-pages` environment using the Pages GitHub
 Action:
-
-1. In **Settings → Pages**, set **Source** to **GitHub Actions**.
-2. Push to `main` — the `hugo.yml` workflow builds and deploys.
-3. The site goes live at <https://sparc-lab-ms.github.io/>.
 
 ## Licence
 
