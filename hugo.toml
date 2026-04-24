@@ -92,20 +92,15 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     url = "/projects/"
     weight = 4
   [[menu.header]]
-    name = "Teaching"
-    title = "Teaching"
+    name = "Teaching&Theses"
+    title = "Teaching & Theses"
     url = "/teaching/"
     weight = 5
-  [[menu.header]]
-    name = "Theses"
-    title = "Theses"
-    url = "/theses/"
-    weight = 6
   [[menu.header]]
     name = "Join us"
     title = "Join us"
     url = "/join-us/"
-    weight = 7
+    weight = 6
 
   [[menu.footer]]
     name = "Institute for Geoinformatics"
